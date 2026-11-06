@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Local app settings
+settings.json
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Extracted third-party app dumps
+cursorful_extract/
+**/cursorful_peek/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
